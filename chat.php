@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Fichier base</title>
+    <title>Chat</title>
 	<link href="style/style.css" type="text/css" rel="stylesheet" />
   </head>
 <body>
